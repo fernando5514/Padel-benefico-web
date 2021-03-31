@@ -64,15 +64,15 @@ font-size: 119%;}
     margin-left: 5%;
   }
 .inscripcion{
-  margin-left: 30%;
+  margin-left: 25%;
   height: 70%;
   width: 70%;
 }
 .inscripcion button{
   height: 100%;
-  width: 50%;
-  font-size: 300%;
-  border-radius: 100px;
+  width: 65%;
+  font-size: 250%;
+  border-radius: 25px;
   background-color: lightblue;
 }
 .inscripcion button:hover{
