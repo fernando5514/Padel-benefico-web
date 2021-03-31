@@ -1,4 +1,5 @@
-*{font-family: 'Montserrat', 'sans-serif';}
+*{font-family: 'Montserrat', 'sans-serif';
+font-size: 119%;}
 
 .banner{
     background-image: url("https://www.ufv.es/wp-content/uploads/2018/07/deporte3.jpg");
@@ -6,20 +7,19 @@
     background-size: cover;
     background-position: center;
     border: solid;
-    height: 300px;
+    height: 70%;
     width: 100%;}
 
 
 .cartel{
     background-color: rgba(255,255,255,0.6);
-    padding: 5px 5px 10px;
     border-radius: 20px;
-    border: 3px solid #ddd;}
+    border: 1% solid #ddd;}
 
 .central {
     text-align: center;
     position: relative;
-    top: 20px;
+    top: 5%;
     width: 60%;
     margin-left: 20%;
     margin-top: 3%;}
@@ -33,11 +33,11 @@
 
 .modulo{
     width: 100%;
-    padding: 20px;
-    margin-bottom: 30px;
-    margin-top: 60px;
+    padding: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
     border-bottom: 1px solid #ccc;
-    height: 190px;
+    height: 30%;
     background-color: rgba(255, 255,255, 0.6);
     }
 
@@ -45,34 +45,33 @@
     width: 20%;
     float: left;
     text-align: center;
-    min-height: 140px;
     font-weight: bold;}
 
 .modulo_text{
     font-size:175%;
-    padding-top: 50px;
-    line-height: 45px;}
+    padding-top: 10%;
+    line-height: 100%;}
 
 .logo_final{
     width: 20%;
     height: 20%;
-    margin-top: 10px;
-    margin-left: 30px;}
+    margin-top: 10%;
+    margin-left: 10%;}
 
 .info{
   /* no está en uso */
-    padding: 5px;
-    margin-left: 50px;
+    padding: 1%;
+    margin-left: 5%;
   }
 .inscripcion{
-  margin-left: 35%;
-  height: 55px;
-  width: 30px;
+  margin-left: 30%;
+  height: 70%;
+  width: 70%;
 }
 .inscripcion button{
-  height: 100px;
-  width: 400px;
-  font-size: 45px;
+  height: 100%;
+  width: 50%;
+  font-size: 300%;
   border-radius: 100px;
   background-color: lightblue;
 }
@@ -98,9 +97,4 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-}
-
-p {
-    margin: 0 0 10px;
-	font-size: 150%;
 }
