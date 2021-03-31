@@ -21,9 +21,8 @@
     position: relative;
     top: 20px;
     width: 60%;
-    position: absolute;
     margin-left: 20%;
-    margin-top: 19%;}
+    margin-top: 3%;}
 
 .logo{background-color: #2222;
     padding: 65px 0 150px;
@@ -75,6 +74,7 @@
   width: 400px;
   font-size: 45px;
   border-radius: 100px;
+  background-color: lightblue;
 }
 .inscripcion button:hover{
   background-color: orange;
