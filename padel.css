@@ -2,7 +2,7 @@
 font-size: 119%;}
 
 .banner{
-    background-image: url("https://www.ufv.es/wp-content/uploads/2018/07/deporte3.jpg");
+    background-image: url("img/cartel.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
@@ -26,7 +26,7 @@ font-size: 119%;}
 
 .logo{background-color: #2222;
     padding: 65px 0 150px;
-    background:url("img/presentacion.jpg");
+    background:url("img/presentacion.png");
     background-size: cover;
     background-position: 0% 65%;
     width: 100%;}
@@ -75,7 +75,7 @@ font-size: 119%;}
 
 /* ID's */
 #fondopadel{
-	background: url(https://optimapadel.es/wp-content/uploads/2020/12/fabricante-pista-de-padel.jpg);
+	background: url("img/fondo.jpg");
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
